@@ -1,0 +1,25 @@
+{
+	  "name": "waNode"
+	, "description": "Meant to port built in node.js modules to Wakanda when they're not already included"
+	, "version": "0.0"
+	, "author": "Choisel Fogang<choisel.fogang@gmail.com>"
+	, "contributors": []
+	, "repository": {
+		  "type": "git"
+		, "url": "https://github.com/choisel/waNode"
+	}
+	, "keywords" : [
+		  "wakanda"
+		, "node.js"
+		, "modules"
+	]
+	, "directories": {
+		"lib": "./lib"
+	}
+	, "main": "./lib/htmlparser.js"
+	, "homepage": "http://github.com/choisel/waNode"
+	, "bugs": {
+		  "mail": "choisel.fogang@gmail.com"
+		, "url": "http://github.com/choisel/waNode/issues"
+	}
+}
